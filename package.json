@@ -1,6 +1,6 @@
 {
-  "name": "portfolio_nextjs",
-  "version": "0.1.0",
+  "name": "y",
+  "version": "y",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -19,9 +19,10 @@
   "devDependencies": {
     "next-optimized-images": "^2.6.2"
   },
-  "description": "[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)",
-  "main": "index.js",
+  "description": "y",
+  "main": "y",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "y",
+  "license": "y",
+  "repository": "y"
 }
