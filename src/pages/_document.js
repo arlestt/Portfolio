@@ -37,11 +37,11 @@ export default class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta property="og:title" content="JJ Loknath - Full Stack Developer" />
           <meta property="og:description" content="Hey there! I'm J J Loknath and pursuing a bachelor's degree in Computer Science at IIITM Gwalior. I'm a Full Stack developer and I have also took a glance at blockchain technology. I also enjoy solving programming questions and believe in working hard and enjoying life as well.Always open to new opportunities!" />
-          <meta property="og:image" content="https://www.vipuljha.com/images/banner.png" />
+          <meta property="og:image" content="https://jjloknath.vercel.app/images/banner.png" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:title" content="JJ Loknath - Full Stack Developer" />
           <meta property="twitter:description" content="Hey there! I'm J J Loknath and pursuing a bachelor's degree in Computer Science at IIITM Gwalior. I'm a Full Stack developer and I have also took a glance at blockchain technology. I also enjoy solving programming questions and believe in working hard and enjoying life as well.Always open to new opportunities!" />
-          <meta property="twitter:image" content="https://www.vipuljha.com/images/banner.png" />
+          <meta property="twitter:image" content="https://jjloknath.vercel.app/images/banner.png" />
         </Head>
         <body>
           <Main />

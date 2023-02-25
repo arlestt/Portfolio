@@ -13,7 +13,7 @@ export const projects = [
     description: "My personal portfolio website that contains all my work and project experience, including my resume.",
     image: '/images/portfolio.jpg',
     tags: ['HTML', 'CSS', 'Bootstrap', 'JQuery'],
-    source: 'https://github.com/lordarcadius/website',
+    source: 'https://github.com/arlestt/Portfolio',
     id: 1,
   },
   {
